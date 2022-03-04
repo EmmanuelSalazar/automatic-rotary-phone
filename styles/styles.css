@@ -1,0 +1,39 @@
+body{
+    background-color: #dfe9f5;
+    font-family: 'Quicksand', sans-serif;
+}
+div{
+    margin-right: 25%;
+    margin-left: 25%;
+    text-align: center;
+}
+h1{    
+    color: #3db0f7;
+}
+
+h2{
+    color:  #6d2c7d;
+}
+h3{
+    color:  #6d2c7d;
+}
+p{
+    color: #black;
+    font-size: 15px;
+}
+hr{
+    height: 5px;
+  margin-left: 25%;
+  margin-right: 25%;
+  background-color: lightskyblue;
+}
+
+#p1{
+    background-color: #93cbef;
+    border-radius: 20px;
+}
+footer {
+    font-family: 'Smooch Sans', sans-serif;
+    font-size: 10px;
+    text-align: center;
+}
